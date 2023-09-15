@@ -18,17 +18,7 @@ p, li {font-weight: 300;}
 .bg-cinza {background: #48435C;}
 .bg-roxo {background: #9792E3;}
 
-.img-problema {width: 31%;}
-.img-pros-contras {width: 45%;}
-.hero .logo img {height: 170px;}
-
-.txt-funcionalidades {font-size: 2rem;}
-.texto {font-size: 2rem;}
-
-hr {
-    background-color: #61E786;
-    border: 2px solid #61E786;
-}
+hr {border: 2px solid #61E786;}
 
 .background-image {
     background-color: #282121;
@@ -39,7 +29,7 @@ hr {
 }
 
 #novidades {height: 80vh;}
-#confirmar {width: 50%;}
+#confirmar {min-width: 50%;}
 
 form {border: 2px solid #61E786;}
 
@@ -52,17 +42,8 @@ form .dados input {
     color: #61E786;
 }
 
-form h2 {
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 3px solid #61E786;
-}
+form h2 {border-bottom: 3px solid #61E786;}
 
 form .dados input::-webkit-input-placeholder {color: #61E786;}
 
-footer {
-    height: 20vh;
-    background-color: #000;
-    color: #fff;
-}
+footer {height: 20vh;}
