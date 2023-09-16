@@ -10,10 +10,6 @@ body {
 .text-principal {color: #61E786;}
 .text-secundario {color: #EDFFEC;}
 
-h1 {font-weight: 700;}
-h2 {font-weight: 400;}
-p, li {font-weight: 300;}
-
 .bg-green {background-color: #61E786;}
 .bg-cinza {background: #48435C;}
 .bg-roxo {background: #9792E3;}
